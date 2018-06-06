@@ -3,3 +3,4 @@ This repository contains tutorials for using IRMA onAir's REST-API with self-ser
 
 ## Microsoft Power BI Desktop
 * [Part I: Connecting the REST-API with Power BI](https://github.com/iris-GmbH/ioa-rest-api-bi/wiki/Power-BI-using-REST-API)
+* [Part II: Retrieval of large data sets](https://github.com/iris-GmbH/ioa-rest-api-bi/wiki/Use-the-REST-API-with-Power-BI-Part-II)
